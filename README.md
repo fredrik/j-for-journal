@@ -21,10 +21,6 @@ brew coffee
 
 Ideally, `j` should know how to parse tasks in "plan" and "done" but for 1.0 the goal is to simply allow displaying and editing today's journal and those of yesterday and tomorrow.
 
-## Questions and thoughts
-
-How should `j` interact with `git`?
-
 
 ## Usage
 
