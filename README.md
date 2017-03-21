@@ -22,6 +22,13 @@ brew coffee
 Ideally, `j` should know how to parse tasks in "plan" and "done" but for 1.0 the goal is to simply allow displaying and editing today's journal and those of yesterday and tomorrow.
 
 
+## Setup
+
+`
+mkdir ~/journal && cd ~/journal && git init && git commit --allow-empty -m "THE JOURNAL: A daily ritual, a way to keep sane"
+`
+
+
 ## Usage
 
 `$> j`
